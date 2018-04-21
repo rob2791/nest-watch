@@ -59,6 +59,7 @@ composer install
 Configure source:
 
 ```
+cd /opt/nestwach
 cp nestwatch.conf.sample /etc/nestwatch.conf
 vi /etc/nestwatch.conf
 ```
